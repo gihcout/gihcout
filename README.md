@@ -1,7 +1,7 @@
 ### Heey! Eu sou a Giovana Coutinho 👋
 
-- 🔭 Atualmente estou trabalhando como Analista de BI Pleno
-- 🌱 Atualmente estou cursando bacharel em Ciência da Computação, 4° semestre
+- 🔭 Atualmente estou estagiando com tecnologia no Itaú
+- 🌱 Atualmente estou cursando bacharel em Ciência da Computação, 5° semestre
 - 🚀 Aprendendo sobre Engenharia de Software e IA.
 
 ##
@@ -25,7 +25,6 @@
   <img align="center" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   [<img align="center" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />](https://github.com/gihcout/arduino/blob/main/README.md)
-  <img align="right"  height="100" widht="40" src="https://i.picasion.com/pic92/a7c4491814b69e2d4b651258e0f08198.gif">
 </div>
 
 ##
