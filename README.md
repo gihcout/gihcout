@@ -1,7 +1,7 @@
 ### Heey! Eu sou a Giovana Coutinho 👋
 
-- 🔭 Atualmente estou estagiando com tecnologia no Itaú
-- 🌱 Atualmente estou cursando bacharel em Ciência da Computação, 5° semestre
+- 🔭 Estagiando com tecnologia no Itaú
+- 🌱 Cursando bacharel em Ciência da Computação, 5° semestre
 - 🚀 Aprendendo sobre Engenharia de Software e IA.
 
 ##
