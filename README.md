@@ -2,7 +2,7 @@
 
 - 🔭 Estagiando com tecnologia no Itaú Unibanco
 - 🌱 Cursando bacharel em Ciência da Computação, 5° semestre
-- 🚀 Aprendendo sobre Engenharia de Software e IA.
+- 🚀 Aprendendo sobre Engenharia de Software e Automação.
 
 <br>
 
