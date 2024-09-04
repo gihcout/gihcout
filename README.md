@@ -51,6 +51,5 @@
   <a href="https://www.linkedin.com/in/giovana-coutinho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ctnho1999@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="mailto:giovana.ctnho@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.dio.me/users/ctnho1999" target="_blank"><img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/r0rx7o4jm6jy2uvzt7xk" height=30></a>
-
+  
 </div>
