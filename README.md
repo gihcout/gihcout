@@ -1,8 +1,7 @@
 <p style="color: #C83775; font-size: 18px; font-variant: small-caps"><b>Heey! Eu sou a Giovana Coutinho 👋</b></p>
 
-- 🔭 Estagiando com tecnologia no Itaú Unibanco
+- 🔭 Trabalhando com tecnologia no Itaú Unibanco
 - 🌱 Cursando bacharel em Ciência da Computação, 7° semestre
-- 🚀 Aprendendo sobre Engenharia de Software e Automação.
 
 <br>
 
